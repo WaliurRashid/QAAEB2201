@@ -8,3 +8,4 @@ echo "All files deleted"
 echo "Enjoy your day!!!!!!"
 date
 echo "List of work for today" >> WorkList.txt
+echo "Learn Git Properly"
