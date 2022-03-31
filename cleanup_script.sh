@@ -9,3 +9,4 @@ echo "Enjoy your day!!!!!!"
 date
 echo "List of work for today" >> WorkList.txt
 echo "Learn Git Properly"
+echo "I am wokring in Jodu's Copy"
