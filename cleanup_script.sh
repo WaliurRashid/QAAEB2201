@@ -1,4 +1,5 @@
 #!/bin/bash
+# Thi is a sample shell script for the QA and DevOps folks
 echo "List of files before delete action" >> WorkList.txt 
 ls /Users/jahidul/IdeaProjects/QAAEB2201/Doc/ >> WorkList.txt
 rm -f /Users/jahidul/IdeaProjects/QAAEB2201/Doc/*
